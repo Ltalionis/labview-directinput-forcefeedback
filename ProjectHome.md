@@ -1,0 +1,1 @@
+An interface dll and example VI for using LabVIEW with a DirectInput force feedback device
